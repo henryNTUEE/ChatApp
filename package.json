@@ -28,6 +28,7 @@
     "node-jsx": "^0.13.3",
     "react": "^0.14.2",
     "react-dom": "^0.14.2",
+    "react-transform-boilerplate": "^1.0.0",
     "reactify": "^1.1.1",
     "style-loader": "^0.13.0",
     "vinyl-source-stream": "^1.1.0",
