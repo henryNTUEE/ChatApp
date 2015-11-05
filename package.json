@@ -1,7 +1,7 @@
 {
   "name": "b02901051_hw3",
   "version": "1.0.0",
-  "main": "gulpfile.js",
+  "main": "index.js",
   "scripts": {
     "clean": "rimraf dist",
     "build": "npm run clean && npm run build:webpack",
